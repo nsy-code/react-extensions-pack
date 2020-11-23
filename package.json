@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "publisher":"nsy",
     "icon":"icon.png",
+    "repository":"https://github.com/nsy-code/react-extensions-pack",
     "engines": {
         "vscode": "^1.51.0"
     },
