@@ -1,0 +1,32 @@
+{
+    "name": "javascript-react-extensions-pack",
+    "displayName": "React Extensions Pack",
+    "description": "make it easy to create, manage, and debug react project",
+    "version": "1.0.0",
+    "publisher":"nsy",
+    "icon":"icon.png",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName",
+        "xabikos.reactsnippets",
+        "christian-kohler.path-intellisense",
+        "abusaidm.html-snippets",
+        "dbaeumer.vscode-eslint",
+        "streetsidesoftware.code-spell-checker",
+        "syler.sass-indented",
+        "mgmcdermott.vscode-language-babel",
+        "wayou.vscode-todo-highlight",
+        "naumovs.color-highlight",
+        "esbenp.prettier-vscode",
+        "wix.vscode-import-cost",
+        "humao.rest-client",
+        "cssho.vscode-svgviewer",
+        "pflannery.vscode-versionlens",
+        "zignd.html-css-class-completion"
+    ]
+}
