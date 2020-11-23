@@ -1,8 +1,8 @@
 {
     "name": "javascript-react-extensions-pack",
-    "displayName": "React Extensions Pack",
+    "displayName": "React JS Extensions Pack",
     "description": "make it easy to create, manage, and debug react project",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher":"nsy",
     "icon":"icon.png",
     "repository":"https://github.com/nsy-code/react-extensions-pack",
